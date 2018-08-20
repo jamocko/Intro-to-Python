@@ -1,5 +1,5 @@
 """
-Author: Ted Petrour
+Author: Ted Petrou
 Purpose: This program attempts to guess a users number between 1 and 1000
 """
 import random
